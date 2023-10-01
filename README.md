@@ -14,7 +14,7 @@ A Chrome extension is a small software program that can be added to the Google C
 |:---:|:---:|:---:|
 | Original Icon | Enabled Icon | Disabled Icon |
 
-
+ 
 
 ## Video Tutorial [ How To Build Chrome Extension From Scratch ]
 [https://youtu.be/13yCU0tQ4cY](https://youtu.be/13yCU0tQ4cY)
