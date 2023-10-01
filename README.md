@@ -7,7 +7,7 @@ _Chrome Extension Development Tutorial: How To Inject JavaScript And CSS Into An
 ## The Project Structure Explanation
 ![Project Setup Files Explanation](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Project-Structure-Explanation.png "Project Structure Explanation")
 
-## How To Debug Extension?
+## How To Debug Extension Using `extensionStatusReport();` Function
 ![How To Debug Extension](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/How-To-Debug-Extension.gif "How To Debug Extension")
 
 ## The `background.js` Script Preview
