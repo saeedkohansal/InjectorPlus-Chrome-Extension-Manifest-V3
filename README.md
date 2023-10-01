@@ -9,7 +9,7 @@ A Chrome extension is a small software program that can be added to the Google C
 
 | ![Image 1](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/Original.png) | ![Image 2](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/enabled/Original.png) | ![Image 3](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/disabled/Original.png) |
 |:---:|:---:|:---:|
-| Original | Enabled | Disabled |
+| Original Icon | Enabled Icon | Disabled Icon |
 
 ## Video Tutorial [ How To Build Chrome Extension From Scratch ]
 [https://youtu.be/13yCU0tQ4cY](https://youtu.be/13yCU0tQ4cY)
