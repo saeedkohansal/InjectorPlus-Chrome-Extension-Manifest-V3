@@ -14,15 +14,12 @@ A Chrome extension is a small software program that can be added to the Google C
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
 💙 PAYPAL DONATION
-
 https://paypal.me/gilgeekify
 
 ❤️ PATREON
-
 https://www.patreon.com/gilgeekify
 
 💛 BUY ME A COFFEE
-
 https://www.buymeacoffee.com/gilgeekify
 
 🪙 My Public Address To Receive BTC • Bitcoin
@@ -32,3 +29,6 @@ bc1qerc5ev074cqknu9nz589w4vjf5ecmhuc2df83h
 🥈 My Public Address To Receive ETH • Ethereum
 
 0x566A47B9731209A5144336D274D44224bfb9C0ea
+
+🖼️ Buy Stunning Unique Digital Artworks
+https://alchemypowerai.etsy.com
