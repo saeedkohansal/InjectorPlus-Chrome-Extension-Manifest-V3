@@ -1,4 +1,4 @@
-# InjectorPlus Chrome Extension Manifest V3
+# Injector+ Chrome Extension Manifest V3
 
 _Chrome Extension Development Tutorial: How To Inject JavaScript And CSS Into Any Website Manifest V3_
 
