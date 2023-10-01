@@ -14,12 +14,15 @@ A Chrome extension is a small software program that can be added to the Google C
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
 💙 PAYPAL DONATION
+
 https://paypal.me/gilgeekify
 
 ❤️ PATREON
+
 https://www.patreon.com/gilgeekify
 
 💛 BUY ME A COFFEE
+
 https://www.buymeacoffee.com/gilgeekify
 
 🪙 My Public Address To Receive BTC • Bitcoin
