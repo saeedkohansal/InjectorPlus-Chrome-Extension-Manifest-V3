@@ -11,7 +11,7 @@ A Chrome extension is a small software program that can be added to the Google C
 
  
 
-## If You Enjoy My Content, Please Support Me 😍🙏
+# If You Enjoy My Content, Please Support Me 😍🙏
 
 💙 PAYPAL DONATION
 
