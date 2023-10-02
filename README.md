@@ -9,6 +9,8 @@ A Chrome extension is a small software program that can be added to the Google C
 ## Video Tutorial [ How To Build Chrome Extension From Scratch ]
 [https://youtu.be/13yCU0tQ4cY](https://youtu.be/13yCU0tQ4cY)
 
+<hr>
+
 ## The Project Structure Explanation
 ![Project Setup Files Explanation](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Project-Structure-Explanation.png "Project Structure Explanation")
 
@@ -20,14 +22,8 @@ A Chrome extension is a small software program that can be added to the Google C
 ### How To Debug Extension Using `extensionStatusReport();` Function
 ![How To Debug Extension](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/How-To-Debug-Extension.gif "How To Debug Extension")
 
-
-
-
-## `chrome.storage.sync` vs `chrome.storage.local`
+## `chrome.storage.local` vs `chrome.storage.sync`
 ![Chrome Storage Sync vs Local](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Chrome-Storage-Sync-vs-Local.png "Chrome Storage Sync vs Local")
-
-
-
 
 ## The `background.js` Script Preview
 ![background.js](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/background.js.png "background.js")
