@@ -9,13 +9,13 @@ A Chrome extension is a small software program that can be added to the Google C
 ## The Project Structure Explanation
 ![Project Setup Files Explanation](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Project-Structure-Explanation.png "Project Structure Explanation")
 
-### How To Debug Extension Using `extensionStatusReport();` Function
-![How To Debug Extension](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/How-To-Debug-Extension.gif "How To Debug Extension")
-
 ## The Extension Icon In Different Conditions
 | ![Extension Original Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/Original.png "Extension Original Icon") | ![Extension Enabled Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/enabled/Original.png "Extension Enabled Icon") | ![Extension Disabled Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/disabled/Original.png "Extension Disabled Icon") |
 | :---: | :---: | :---: |
 | Original Icon | Enabled Icon | Disabled Icon |
+
+### How To Debug Extension Using `extensionStatusReport();` Function
+![How To Debug Extension](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/How-To-Debug-Extension.gif "How To Debug Extension")
 
 ## The `background.js` Script Preview
 ![background.js](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/background.js.png "background.js")
