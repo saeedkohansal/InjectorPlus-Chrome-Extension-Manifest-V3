@@ -42,10 +42,6 @@ https://www.patreon.com/gilgeekify
 
 https://www.buymeacoffee.com/gilgeekify
 
-🖼️ Buy Stunning Unique Digital Artworks
-
-https://alchemypowerai.etsy.com
-
 🪙 My Public Address To Receive BTC • Bitcoin
 
 bc1qerc5ev074cqknu9nz589w4vjf5ecmhuc2df83h
